@@ -25,12 +25,6 @@ const Navigation = () => {
 
                 Stake
             </Link>
-
-            <Link to="/launch" className="navigation__link">
-                <Launch />
-
-                Launch
-            </Link>
         </div>
     )
 }
