@@ -179,7 +179,7 @@ const Header = ({title}) => {
                 </div>
 
                 <p className="modal__terms">
-                    By connecting, I accept Uniforge's <span>Terms of Service</span>
+                    By connecting, I accept Payfe's <span>Terms of Service</span>
                 </p>
             </Modal>
 
